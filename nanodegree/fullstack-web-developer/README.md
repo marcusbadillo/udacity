@@ -13,7 +13,7 @@ Relationships between tables are encoded using foreign keys
 
 ## SQL Cheatsheet
 
-![picture](nanodegree/fullstack-web-developer/media/SQL-Basic-Cheat-Sheet-1.webp)
+![picture](nanodegree/fullstack-web-developer/media/SQL-Basic-Cheat-Sheet-1.png)
 
 1. Every relational database system has its own particular implementation of SQL. TRUE
 
